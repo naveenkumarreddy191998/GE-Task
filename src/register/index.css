@@ -1,0 +1,30 @@
+.register-conatainer{
+    margin:20px 40px;
+}
+
+label{
+    font-size: 14px;
+    font-weight: bold;
+}
+.error{
+    color: red;
+    font-size: 14px;
+    font-weight: 400;
+}
+.submit button{
+    background-color: cadetblue;
+    color: white;
+    border-radius: 8px;
+    border-width: 0;
+    border-color: cadetblue;
+    padding: 5px 10px;
+    margin-top: 10px;
+    font-weight: 700;
+    font-size: 14px;
+}
+.heading{
+    font-size: 20px;
+}
+form div{
+    margin-bottom: 5px;
+}
